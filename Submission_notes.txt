@@ -1,0 +1,13 @@
+HI Noor/Zia,
+
+I have build the model without pipeline and added all my observations and also tried different models for outcome.
+
+I have picked randomclassifier from above models and build the pipeline for it. Then used the pickle fiule for fastapi and web deployment.
+
+I successfully ran both fastapi and web deployment via terminal(from local) and attachef the result in GIT.
+
+I am facing issue with GCP deployment for both api and web deployment. I will work it out and get it resolved bfore next class.
+
+Thanks,
+jakeer Hussain.
+
